@@ -30,16 +30,16 @@
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B949E&line=F85D7F&point=F85D7F" alt="Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=undertanker86&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B949E&line=F85D7F&point=F85D7F" alt="Activity Graph">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=undertanker86&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=undertanker86&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
