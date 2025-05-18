@@ -4,7 +4,7 @@
 - 🔭 I'm currently working at Greenwich University
 - 📫 How to reach me: duongthagch220838@fpt.edu.vn
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/undertanker86)
-  [![OCR](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://orcid.org/0009-0002-1952-5176)
+  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1952-5176)
 
 
 ## 📊 GitHub Stats
