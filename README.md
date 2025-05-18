@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/your-username/quickdraw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=undertanker86&repo=quickdraw&theme=tokyonight&hide_border=true" alt="QuickDraw" height="120">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=undertanker86&repo=TinyURL-Using-OCR-Model&theme=tokyonight&hide_border=true" alt="QuickDraw" height="120">
   </a>
   <a href="https://github.com/your-username/ascii-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=undertanker86&repo=ascii-generator&theme=tokyonight&hide_border=true" alt="ASCII Generator" height="120">
