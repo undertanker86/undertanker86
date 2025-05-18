@@ -20,9 +20,6 @@
   <a href="https://github.com/undertanker86/TinyURL-Using-OCR-Model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=undertanker86&repo=TinyURL-Using-OCR-Model&theme=tokyonight&hide_border=true" alt="TinyURL OCR" height="120">
   </a>
-  <a href="https://github.com/undertanker86/music-style-transfer-cvae">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=undertanker86&repo=music-style-transfer-cvae&theme=tokyonight&hide_border=true" alt="Music Style Transfer" height="120">
-  </a>
 </div>
 
 
