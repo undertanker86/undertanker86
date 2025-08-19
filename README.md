@@ -21,6 +21,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=undertanker86&repo=TinyURL-Using-OCR-Model&theme=tokyonight&hide_border=true" alt="TinyURL OCR" height="120">
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/undertanker86/End-to-end-fraud-detection-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=undertanker86&repo=End-to-end-fraud-detection-lab&theme=tokyonight&hide_border=true" alt="FDL" height="120">
+  </a>
+</div>
 
 
 ## 📈 Activity Graph
