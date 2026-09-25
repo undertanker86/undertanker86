@@ -37,11 +37,15 @@
 
 ## 🔥 Featured Projects
 
-| Project | Description | Stars |
-|---|---|---|
-| [**CV MLOps Pipeline**](https://github.com/undertanker86/Facial--Expression-Recognition-MLOps) | Computer vision model with a full MLOps pipeline: training, serving, monitoring | ![](https://img.shields.io/github/stars/undertanker86/Facial--Expression-Recognition-MLOps?style=flat-square&color=7aa2f7) |
-| [**Fraud Detection Lab**](https://github.com/undertanker86/End-to-end-fraud-detection-lab) | End-to-end fraud detection system from data to deployment | ![](https://img.shields.io/github/stars/undertanker86/End-to-end-fraud-detection-lab?style=flat-square&color=7aa2f7) |
-| [**TinyURL + OCR**](https://github.com/undertanker86/TinyURL-Using-OCR-Model) | URL shortener integrated with an OCR model | ![](https://img.shields.io/github/stars/undertanker86/TinyURL-Using-OCR-Model?style=flat-square&color=7aa2f7) |
+<div align="center">
+  <a href="https://github.com/undertanker86/data-pipeline-with-dbt-dagster"><img src="./assets/pins/data-pipeline-with-dbt-dagster.svg" alt="data-pipeline-with-dbt-dagster" width="400" /></a>
+  <a href="https://github.com/undertanker86/Vietnam-Air-Quality-Data-Pipeline"><img src="./assets/pins/Vietnam-Air-Quality-Data-Pipeline.svg" alt="Vietnam-Air-Quality-Data-Pipeline" width="400" /></a>
+  <br/>
+  <a href="https://github.com/undertanker86/Facial--Expression-Recognition-MLOps"><img src="./assets/pins/Facial--Expression-Recognition-MLOps.svg" alt="Facial--Expression-Recognition-MLOps" width="400" /></a>
+  <a href="https://github.com/undertanker86/End-to-end-fraud-detection-lab"><img src="./assets/pins/End-to-end-fraud-detection-lab.svg" alt="End-to-end-fraud-detection-lab" width="400" /></a>
+  <br/>
+  <a href="https://github.com/undertanker86/Project-Visual-Question-Answering"><img src="./assets/pins/Project-Visual-Question-Answering.svg" alt="Project-Visual-Question-Answering" width="400" /></a>
+</div>
 
 ## 📊 GitHub Stats
 
