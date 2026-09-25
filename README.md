@@ -62,13 +62,6 @@
   <img src="https://streak-stats.demolab.com/?user=undertanker86&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/undertanker86/undertanker86/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/undertanker86/undertanker86/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</picture>
-
 ---
 
 <div align="center">
